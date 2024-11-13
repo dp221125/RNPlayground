@@ -133,3 +133,5 @@ iOSInjectionProject/
 build/
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode,macos,swift,cocoapods
+.xcode.env
+.xcode.env.local
