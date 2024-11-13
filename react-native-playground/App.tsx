@@ -1,9 +1,9 @@
 
-import NativeComponet from './libs/natives/components/NativeComponent';
+import HomeComponent from './libs/natives/components/HomeComponent';
 
 const App = () => {
   return (
-    <NativeComponet
+    <HomeComponent
       style={{
         width: '100%',
         height: '100%',

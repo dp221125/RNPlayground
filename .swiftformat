@@ -1,0 +1,6 @@
+--exclude Pods, react-native-playground
+--disable redundantSelf, andOperator, redundantFileprivate, void, redundantType, preferForLoop, wrapMultilineStatementBraces 
+--wrapparameters before-first
+--closurevoid preserve
+--guardelse same-line
+--swiftversion 5

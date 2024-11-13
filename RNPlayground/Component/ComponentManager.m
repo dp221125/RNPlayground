@@ -8,5 +8,5 @@
 #import <Foundation/Foundation.h>
 #import <React/RCTViewManager.h>
 
-@interface RCT_EXTERN_MODULE(NativeComponentManager, RCTViewManager)
+@interface RCT_EXTERN_MODULE(HomeComponentManager, RCTViewManager)
 @end
